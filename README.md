@@ -1,2 +1,2 @@
 # C++
-This Repository consists Prgramms in C++ language For Learners
+This Repository consists  C++ Programs
